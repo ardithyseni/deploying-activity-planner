@@ -2,6 +2,6 @@
 
 module.exports = {
     publicPath: process.env.NODE_ENV === 'production'
-      ? '/activity-planner/'
+      ? '/deploying-activity-planner/'
       : '/'
   }
